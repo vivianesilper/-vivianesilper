@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/vivianesilper" target="blank"><img src="https://img.shields.io/twitter/follow/vivianesilper?logo=twitter&style=for-the-badge" alt="vivianesilper" /></a> </p>
 
-- 🔭 No momento terminando a pós-graduação **faculdade Mackenzie**
+- 🔭 No momento terminando projeto **Azure Cloud, Apis com Python**
 
 - 🌱 Atualmente estou me aperfeiçoando **MySql Server 2023, Qlik, PostgreSql**
 
-- 👯 Analises explorátoria no Power Bi **Relatório Mundial da Felicidade**
+- 👯 Analises explorátoria no Power Bi alguns dos primeiros projetos **Relatório Mundial da Felicidade**
 
 - 👨‍💻 Sobre mim: [https://www.linkedin.com/in/viviane-pereira-478643207/](https://www.linkedin.com/in/viviane-pereira-478643207/)
 
 - 📫 Contato **vivianesilper@gmail.com**
 
-- ⚡ Fato engraçado sobre mim: **Tenho olhos apertados**
+- ⚡ Fato engraçado sobre mim: **Tenho olhos apertados e bastante curiosidade em aprender**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
