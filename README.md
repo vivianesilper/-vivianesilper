@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/vivianesilper" target="blank"><img src="https://img.shields.io/twitter/follow/vivianesilper?logo=twitter&style=for-the-badge" alt="vivianesilper" /></a> </p>
 
-- 🔭 No momento terminando projeto **Azure Cloud, Apis com Python**
+- 🔭 No momento buscando novas oportunidades como **Analista de Dados**
 
-- 🌱 Atualmente estou me aperfeiçoando **MySql Server 2023, Qlik, PostgreSql**
+- 🌱 Atualmente estou me aperfeiçoando **Azure Cloud, Apis com Python**
 
 - 👯 Analises explorátoria no Power Bi alguns dos primeiros projetos **Relatório Mundial da Felicidade**
 
